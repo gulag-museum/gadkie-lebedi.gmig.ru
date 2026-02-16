@@ -1,0 +1,28 @@
+    @font-face {
+        font-family: 'joystixremakemedium';
+        src: url('../fonts/12601-webfont.eot');
+        src: url('../fonts/12601-webfont.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/12601-webfont.woff2') format('woff2'),
+             url('../fonts/12601-webfont.woff') format('woff'),
+             url('../fonts/12601.ttf')  format('ttf');
+        font-weight: normal;
+        font-style: normal;
+
+    }
+    .fantasy { font-family: 'joystixremakemedium'; /*a name to be used later*/
+      }
+      .fantasy a{
+        color: #bbbbbb;
+      }
+
+      .fantasy a:hover{
+        color: red;
+      }
+
+      .fantasy a:active{
+        color: #bbbbbb;
+      }
+
+      body {
+        font-size: calc(1vw + 1.8vh + 0.5vmin);
+      }
