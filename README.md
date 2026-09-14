@@ -1,42 +1,49 @@
-# The Ugly Swans | Static Archive 
-# Гадкие лебеди | Статический архив
+<img src=".github/cover.jpg" alt="Гадкие лебеди" width="100%">
 
-This repository contains a permanent static mirror of the original version of `gadkie-lebedi.gmig.ru`.
-В данном репозитории хранится вечный статический снимок (зеркало) оригинальной версии сайта `gadkie-lebedi.gmig.ru`.
+# Гадкие лебеди
 
----
+*The Ugly Swans*
 
-## 🏛 Project Context / Контекст проекта
+Сайт-афиша спектакля с GIF-куклами по повести Аркадия и Бориса Стругацких — совместной постановки Музея истории ГУЛАГа и творческого объединения «Таратумб».
 
-**EN:** "The Ugly Swans" is an online poster for the theatrical production based on the story by Arkady and Boris Strugatsky. Developed and maintained by the **GULAG History Museum**.
+**[Открыть архив →](https://gadkie-lebedi.gmig.gulagmemory.org)** · [Все сохранённые сайты](https://gulagmemory.org)
 
-**RU:** «Гадкие лебеди» — онлайн-афиша спектакля по повести Аркадия и Бориса Стругацких. Разработан и поддерживался **Государственным музеем истории ГУЛАГа** (ГМИГ).
+| | |
+|:--|:--|
+| **Тип** | Сайт спектакля |
+| **Годы** | 2019 |
+| **Исходный адрес** | `gadkie-lebedi.gmig.ru` |
+| **Адрес архива** | [gadkie-lebedi.gmig.gulagmemory.org](https://gadkie-lebedi.gmig.gulagmemory.org) |
+| **Снимок сделан** | февраль 2026 · копия исходных файлов |
 
-* **Official Museum Website / Сайт ГМИГ:** [https://gmig.ru](https://gmig.ru)
-* **Original URL / Исходный адрес:** [https://gadkie-lebedi.gmig.ru](https://gadkie-lebedi.gmig.ru)
-* **Archive Date / Дата архивации:** Февраль 2026
+## О проекте
 
----
+«Будущее создаётся тобой, но не для тебя». Писатель Виктор Банев возвращается в родной город, где не прекращается дождь, а дети всё больше времени проводят с загадочными «мокрецами» из лепрозория. Он пытается понять, чему их учат и какое будущее несут эти «новые» дети.
 
-## 📜 About the Project / О проекте
+Постановка перенесла действие повести в наши дни и соединила кукольный театр с цифровыми технологиями; на сцене играют и взрослые актёры, и дети. Режиссёры — Ольга Шайдуллина и Антон Калипанов, художник-постановщик — Сергей Февралев, медиахудожники — Евгений Афонин и Ян Калнберзин, продюсер — Роман Романов. Сайт — одностраничная афиша с описанием спектакля и составом.
 
-**EN:** A reflection on the fate of the intelligentsia and the conflict of generations in a totalitarian society. The website contains information about the production, the creative team, and the conceptual link between the Strugatskys' prose and the museum's themes.
+## Что сохранено
 
-**RU:** Размышление о судьбе интеллигенции и конфликте поколений в тоталитарном обществе. Сайт содержит информацию о постановке, творческой группе и концептуальной связи прозы Стругацких с тематикой музея.
+- описание спектакля;
+- актёрский состав и создатели.
 
----
+## Что не работает
 
-## 🛠 Technical Details / Технические детали
-
-
-* **Functionality:** All texts and photos are preserved. Interactive elements or booking forms may be limited.
-* **Функциональность:** Все тексты и фотографии сохранены. Интерактивные функции или формы бронирования могут быть ограничены.
-
----
-
-## ⚖️ Disclaimer / Правовая информация
-This archive is maintained for historical and educational purposes. All rights belong to the GULAG History Museum.
-Этот архив поддерживается в исторических и образовательных целях. Все права принадлежат Государственному музею истории ГУЛАГа.
+- продажа билетов не работает.
 
 ---
-*Preserved by gmig*
+
+Репозиторий входит в [реестр сохранённых сайтов Музея истории ГУЛАГа](https://gulagmemory.org) — некоммерческий архив цифрового наследия, созданный в исследовательских и образовательных целях. Права на тексты, фотографии, видео и другие материалы принадлежат их авторам и правообладателям.
+
+<details>
+<summary><b>English</b></summary>
+
+### The Ugly Swans
+
+One-page website for a GIF-puppet stage adaptation of the Strugatsky brothers' novella, produced by the GULAG History Museum and the Taratumb creative collective (premiere 2019): synopsis, cast and creative team.
+
+**Type:** Theatre production website · **Original address:** `gadkie-lebedi.gmig.ru` · **Archive:** [gadkie-lebedi.gmig.gulagmemory.org](https://gadkie-lebedi.gmig.gulagmemory.org)
+
+Part of the [registry of preserved GULAG History Museum websites](https://gulagmemory.org) — a non-commercial digital heritage archive for research and education. All texts, photographs, video and other materials remain the property of their authors and rights holders.
+
+</details>
